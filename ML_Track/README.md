@@ -1,7 +1,7 @@
 # Список работ на второй семестр
 
 
-| **Название работы**            | **Описание**                      |
+| **Colab research**            | **Описание**                      |
 |--------------------------------|-----------------------------------|
-| [`Task-1`](https://github.com/box1t/IT_Projects_2_sem/ML_Track/Gradient_descent.ipynb) | Оптимизация методом градиентного спуска  |
+| [`Task-1`](https://colab.research.google.com/drive/1b63nJRfUFBpFP2ejR9nxkF8MW9cTTopV) | Оптимизация методом градиентного спуска  |
 
