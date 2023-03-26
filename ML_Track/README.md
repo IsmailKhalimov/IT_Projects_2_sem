@@ -3,5 +3,5 @@
 
 | **Название работы**            | **Описание**                      |
 |--------------------------------|-----------------------------------|
-| [`Task-1`](https://github.com/box1t/IT_Projects_2_sem/ML_Track/Gradient_Descent.ipynb) | Оптимизация методом градиентного спуска  |
+| [`Task-1`](https://github.com/box1t/IT_Projects_2_sem/ML_Track/Gradient_descent.ipynb) | Оптимизация методом градиентного спуска  |
 
